@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+*.exe
+*.lib
+*.exp
+*.obj
+*.pdb
+
+# Large generated images
+output/*.ppm
